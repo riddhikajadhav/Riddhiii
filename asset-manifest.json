@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Riddhiii/static/css/main.097c23b7.css",
+    "main.js": "/Riddhiii/static/js/main.30f990c4.js",
+    "static/media/header.jpg": "/Riddhiii/static/media/header.b34df7b99473d886d32a.jpg",
+    "static/media/about.jpg": "/Riddhiii/static/media/about.823a6e4499344c391328.jpg",
+    "static/media/logo.jpg": "/Riddhiii/static/media/logo.aabe2dac077b53cb6dfe.jpg",
+    "static/media/cv.pdf": "/Riddhiii/static/media/cv.b258794da658b92cfab3.pdf",
+    "index.html": "/Riddhiii/index.html",
+    "main.097c23b7.css.map": "/Riddhiii/static/css/main.097c23b7.css.map",
+    "main.30f990c4.js.map": "/Riddhiii/static/js/main.30f990c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.097c23b7.css",
+    "static/js/main.30f990c4.js"
+  ]
+}
